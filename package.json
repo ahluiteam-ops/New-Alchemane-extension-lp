@@ -1,0 +1,10 @@
+{
+  "name": "alchemane-permanent-extension-landing-page",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "check": "node --check app.js && node --check server.mjs"
+  }
+}

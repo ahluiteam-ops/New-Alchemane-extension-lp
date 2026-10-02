@@ -1,0 +1,14 @@
+# Local previews and validation artifacts
+.preview/
+
+# Local server and installation logs
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies
+node_modules/

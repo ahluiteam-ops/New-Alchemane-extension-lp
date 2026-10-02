@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+images/salon[[:space:]]images/*.png filter=lfs diff=lfs merge=lfs -text
